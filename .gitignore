@@ -1,3 +1,6 @@
 # Ignore all files with the specified extension.
 # Scope is all repo folders.
 *.tif
+
+# Ignore the Data folder
+Data/
