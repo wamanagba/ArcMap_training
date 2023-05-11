@@ -1,6 +1,7 @@
 # Ignore all files with the specified extension.
 # Scope is all repo folders.
 *.tif
+*.nc
 
 # Ignore the Data folder
 E:/SIGP_training/ArcMap_training_SIGP/Data/
